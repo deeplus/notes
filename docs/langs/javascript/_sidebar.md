@@ -13,6 +13,7 @@
     * [隐式强制类型转换](es5-imp-conversions.md)
     * [作用域](es5-scope.md)
     * [JavaScript的执行](es5-js-execution.md)
+    * [严格模式](es5-strict.md)
 
 * 进阶
 
