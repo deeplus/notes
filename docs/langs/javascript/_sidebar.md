@@ -11,6 +11,7 @@
     * [运算符](es5-character.md)
     * [显式强制类型转换](es5-exp-conversions.md)
     * [隐式强制类型转换](es5-imp-conversions.md)
+    * [作用域](es-scope.md)
 
 * 进阶
 
