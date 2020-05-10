@@ -19,6 +19,7 @@
     * [闭包](es5-closure.md)
   * 内置对象
     * [String对象](es5-String.md)
+    * [Array对象](es5-Array.md)
 
 * 进阶
 
