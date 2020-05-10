@@ -16,6 +16,7 @@
     * [严格模式](es5-strict.md)
     * [IIFE](es5-iife.md)
     * [引用类型和值类型](es5-valuetype.md)
+    * [闭包](es5-closure.md)
 
 
 * 进阶
