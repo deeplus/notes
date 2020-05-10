@@ -1,4 +1,4 @@
-# vue-cli基本配置 {docsify-ignore}
+# vue-cli基本配置
 
 ### 配置文件
 

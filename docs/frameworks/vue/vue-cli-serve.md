@@ -1,4 +1,4 @@
-# vue-cli基本服务 {docsify-ignore}
+# vue-cli基本服务
 
 ### 运行指令详解
 
