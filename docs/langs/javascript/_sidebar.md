@@ -8,6 +8,7 @@
     * [函数](es5-function.md)
     * [流程控制](es5-controls.md)
     * [迭代](es5-iteration.md)
+    * [运算符](es5-character.md)
 
 * 进阶
 
