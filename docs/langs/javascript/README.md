@@ -1,6 +1,6 @@
-## 简介 {docsify-ignore}
+# 简介 {docsify-ignore}
 
-##### 什么是JavaScript
+### 什么是JavaScript
 
 ​		JavaScript是一种**`解释型脚本语言`**，是一种**`动态类型`**、**`弱类型`**、**`基于原型`**的语言，**`内置支持类型`**。**`它的解释器被称为JavaScript引擎，为浏览器的一部分`**。
 
@@ -13,7 +13,7 @@
 
 ---
 
-##### JavaScript的组成
+### JavaScript的组成
 
 ​		JavaScript由**`ECMAScript`**、**`BOM`**、**`DOM`**三部分组成。
 
@@ -24,7 +24,7 @@
 
 ---
 
-##### JavaScript的注释
+### JavaScript的注释
 
 *  **`单行注释`**
 
