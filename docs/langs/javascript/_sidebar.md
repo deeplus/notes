@@ -14,6 +14,8 @@
     * [作用域](es5-scope.md)
     * [JavaScript的执行](es5-js-execution.md)
     * [严格模式](es5-strict.md)
+    * [IIFE](es5-iife.md)
+    
 
 * 进阶
 
