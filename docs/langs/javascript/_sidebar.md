@@ -18,9 +18,10 @@
     * [引用类型和值类型](es5-valuetype.md)
     * [闭包](es5-closure.md)
   * 内置对象
-    * [String对象](es5-String.md)
-    * [Array对象](es5-Array.md)
-    * [JSON对象](es5-JSON.md)
+    * [String对象](es5-string.md)
+    * [Array对象](es5-array.md)
+    * [JSON对象](es5-json.md)
+    * [Function对象](es5-function2.md)
 
 * 进阶
 
