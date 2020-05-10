@@ -8,15 +8,15 @@
 
 ```html
 // 字符串拼接
-	<div>123</div>
-	<script>
-		var box = document.getElementById('box')
-		box.onclick = function(){
-			box.innerHTML = box.innerHTML + '123'
-			// 等价于 
-			box.innerHTML += '123'
-		}
-	</script>
+<div>123</div>
+<script>
+	var box = document.getElementById('box')
+	box.onclick = function(){
+		box.innerHTML = box.innerHTML + '123'
+		// 等价于 
+		box.innerHTML += '123'
+	}
+</script>
 ```
 
 ---
