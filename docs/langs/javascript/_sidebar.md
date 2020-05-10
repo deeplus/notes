@@ -17,7 +17,8 @@
     * [IIFE](es5-iife.md)
     * [引用类型和值类型](es5-valuetype.md)
     * [闭包](es5-closure.md)
-
+  * 内置对象
+    * [String对象](es5-String.md)
 
 * 进阶
 
