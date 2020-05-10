@@ -7,6 +7,7 @@
     * [数据类型](es5-datatype.md)
     * [函数](es5-function.md)
     * [流程控制](es5-controls.md)
+    * [迭代](es5-iteration.md)
 
 * 进阶
 
