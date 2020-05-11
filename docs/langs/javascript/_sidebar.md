@@ -51,6 +51,7 @@
     * [Reflect](es6-reflect.md)
     * [Promise](es6-promise.md)
     * [Iterator](es6-iterator.md)
+    * [Generator](es6-generator.md)
   * es7
   * es8
   * es9
