@@ -49,6 +49,7 @@
     * [WeakMap](es6-weakmap.md)
     * [Proxy](es6-proxy.md)
     * [Reflect](es6-reflect.md)
+    * [Promise](es6-promise.md)
   * es7
   * es8
   * es9
