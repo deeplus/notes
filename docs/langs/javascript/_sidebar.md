@@ -33,6 +33,7 @@
   * es6
     * [变量声明](es6-variable.md)
     * [解构赋值](es6-destructuring.md)
+    * [String拓展](es6-string.md)
 
 * 高级
 
