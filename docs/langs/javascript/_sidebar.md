@@ -60,6 +60,7 @@
   * es8
     * [函数参数列表结尾允许逗号](es8-function.md)
     * [Object拓展](es8-object.md)
+    * [String拓展](es8-string.md)
   * es9
 
 * 高级
