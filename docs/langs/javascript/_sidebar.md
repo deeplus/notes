@@ -36,6 +36,7 @@
     * [String拓展](es6-string.md)
     * [Number拓展](es6-number.md)
     * [Math拓展](es6-math.md)
+    * [Function拓展](es6-function.md)
 
 * 高级
 
