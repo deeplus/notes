@@ -52,6 +52,7 @@
     * [Promise](es6-promise.md)
     * [Iterator](es6-iterator.md)
     * [Generator](es6-generator.md)
+    * [Module](es6-module.md)
   * es7
   * es8
   * es9
