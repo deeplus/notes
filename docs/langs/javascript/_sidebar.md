@@ -61,6 +61,7 @@
     * [函数参数列表结尾允许逗号](es8-function.md)
     * [Object拓展](es8-object.md)
     * [String拓展](es8-string.md)
+    * [async函数](es8-async.md)
   * es9
 
 * 高级
