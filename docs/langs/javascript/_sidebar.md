@@ -55,6 +55,7 @@
     * [Module](es6-module.md)
   * es7
     * [严格模式拓展](es7.strict.md)
+    * [指数操作符](es7-operator.md)
   * es8
   * es9
 
