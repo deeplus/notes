@@ -27,8 +27,11 @@
     * [RegExp对象](es5-regexp.md)
 
 * 进阶
-  * [Object对象](es5-object.md)
-  * [面向对象](es5-object-oriented.md)
+  * es5
+    * [Object对象](es5-object.md)
+    * [面向对象](es5-object-oriented.md)
+  * es6
+    * [变量声明](es6-variable.md)
 
 * 高级
 
