@@ -43,6 +43,10 @@
     * [Symbol](es6-symbol.md)
     * [块作用域](es6-block-scope.md)
     * [字符串模板](es6-template.md)
+    * [Set数据结构](es6-set.md)
+  * es7
+  * es8
+  * es9
 
 * 高级
 
