@@ -39,6 +39,7 @@
     * [Function拓展](es6-function.md)
     * [Array拓展](es6-array.md)
     * [Object拓展](es6-object.md)
+    * [Class类](es6-class.md)
 
 * 高级
 
