@@ -63,6 +63,7 @@
     * [String拓展](es8-string.md)
     * [async函数](es8-async.md)
   * es9
+    * [RegExp拓展](es9-regexp.md)
 
 * 高级
 
