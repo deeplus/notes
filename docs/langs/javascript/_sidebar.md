@@ -58,6 +58,7 @@
     * [指数操作符](es7-operator.md)
     * [Array拓展](es7-array.md)
   * es8
+    * [函数参数列表结尾允许逗号](es8-function.md)
   * es9
 
 * 高级
