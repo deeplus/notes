@@ -46,6 +46,7 @@
     * [Set数据结构](es6-set.md)
     * [WeakSet](es6-weakset.md)
     * [Map数据结构](es6-map.md)
+    * [WeakMap](es6-weakmap.md)
   * es7
   * es8
   * es9
