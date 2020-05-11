@@ -54,6 +54,7 @@
     * [Generator](es6-generator.md)
     * [Module](es6-module.md)
   * es7
+    * [严格模式拓展](es7.strict.md)
   * es8
   * es9
 
