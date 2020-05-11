@@ -41,6 +41,7 @@
     * [Object拓展](es6-object.md)
     * [Class类](es6-class.md)
     * [Symbol](es6-symbol.md)
+    * [块作用域](es6-block-scope.md)
 
 * 高级
 
