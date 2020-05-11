@@ -35,6 +35,7 @@
     * [解构赋值](es6-destructuring.md)
     * [String拓展](es6-string.md)
     * [Number拓展](es6-number.md)
+    * [Math拓展](es6-math.md)
 
 * 高级
 
