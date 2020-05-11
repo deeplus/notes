@@ -28,6 +28,7 @@
 
 * 进阶
   * [Object对象](es5-object.md)
+  * [面向对象](es5-object-oriented.md)
 
 * 高级
 
