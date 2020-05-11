@@ -50,6 +50,7 @@
     * [Proxy](es6-proxy.md)
     * [Reflect](es6-reflect.md)
     * [Promise](es6-promise.md)
+    * [Iterator](es6-iterator.md)
   * es7
   * es8
   * es9
