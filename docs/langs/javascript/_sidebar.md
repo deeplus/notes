@@ -24,6 +24,7 @@
     * [Function对象](es5-function2.md)
     * [Math对象](es5-math.md)
     * [Date对象](es5-date.md)
+    * [RegExp对象](es5-regexp.md)
 
 * 进阶
 
