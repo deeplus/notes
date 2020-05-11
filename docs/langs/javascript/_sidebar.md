@@ -23,6 +23,7 @@
     * [JSON对象](es5-json.md)
     * [Function对象](es5-function2.md)
     * [Math对象](es5-math.md)
+    * [Date对象](es5-date.md)
 
 * 进阶
 
