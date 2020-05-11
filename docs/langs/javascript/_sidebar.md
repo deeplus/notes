@@ -38,6 +38,7 @@
     * [Math拓展](es6-math.md)
     * [Function拓展](es6-function.md)
     * [Array拓展](es6-array.md)
+    * [Object拓展](es6-object.md)
 
 * 高级
 
