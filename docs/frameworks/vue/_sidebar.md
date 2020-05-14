@@ -7,5 +7,6 @@
 
 * vue-router
   * [vue-router介绍](vue-router-introduce.md)
-  
+  * [vue-router详解](vue-router-config.md)
+
 * vuex
