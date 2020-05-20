@@ -92,3 +92,23 @@ this.setData({
 ### 2.9 tabBar
 
 ​	icon 的大小限制为40kb，建议尺寸为 81*81，且不允许使用网络图片
+
+---
+
+### 2.10 model
+
+​	在使用 model 做双向数据绑定时，所绑定的值只能是一个一级变量，不能是某个对象的某个字段
+
+```html
+<!-- model绑定的字段只能是一级变量 -->
+<input type="text" model:value="{{name}}"></input>
+
+<!-- 不能是某个对象的某个字段 -->
+<input type="text" model:value="{{person.name}}"></input>
+```
+
+---
+
+### 2.11 组件
+
+​	不要在组件样式里面使用 id选择器 和 标签选择器，就用类选择器就好。
