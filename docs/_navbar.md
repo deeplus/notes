@@ -12,8 +12,9 @@
 
 * 必备技能
   * [git](/skills/git/)
-  * [webpack](/skills/webpack/)
+  * [sass](/skills/sass/)
   * [canvas](/skills/canvas/)
   * [h5](/skills/h5/)
 
 * [随笔](/essays/)
+
