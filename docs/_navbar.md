@@ -13,7 +13,7 @@
 * 必备技能
   * [git](/skills/git/)
   * [sass](/skills/sass/)
-  * [canvas](/skills/canvas/)
+  * [travis-ci](/skills/travis-ci/)
   * [h5](/skills/h5/)
 
 * [随笔](/essays/)
