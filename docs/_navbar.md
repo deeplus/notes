@@ -14,7 +14,7 @@
   * [git](/skills/git/)
   * [sass](/skills/sass/)
   * [travis-ci](/skills/travis-ci/)
-  * [h5](/skills/h5/)
+  * [electron](/skills/electron/)
 
 * [随笔](/essays/)
 
